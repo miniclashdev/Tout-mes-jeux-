@@ -1,9 +1,0 @@
-GAME HUB — Mini Clash Dev
-
-1. Mets tout le contenu de ce dossier dans un dépôt GitHub.
-2. Active GitHub Pages sur la branche main, dossier / (root).
-3. Ouvre l'adresse GitHub Pages : c'est ton lien unique à partager.
-4. Les 3 jeux sont déjà configurés.
-5. Pour ajouter un jeu, modifie la liste "games" dans index.html.
-6. Les notes/avis sont actuellement locaux. Pour les partager entre tous les joueurs,
-   il faudra ensuite brancher Supabase (URL du projet + clé publique anon).
